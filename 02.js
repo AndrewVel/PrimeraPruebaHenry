@@ -9,6 +9,7 @@ function vegan(invitados) {
   // a una fiesta en donde todos tienen una propiedad "vegan" con un boolean.
   // debe retornar la cantidad de invitados que son vegan.
   // Por ej:
+  // los vegetarianos son mejores
   // let invitados = {
   //     Luna: {
   //         vegan: false

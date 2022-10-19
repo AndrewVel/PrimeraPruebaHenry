@@ -4,7 +4,7 @@
   código dentro de las funciones ya definidas. 
   No comentar la funcion 
 */
-
+//buenas tardes
 function buscandoAWally(array) {
   // La función llamada 'buscandoAWally' recibe como argumento un arreglo de 'string' y debe devolver un 'string' que diga
   // 'Encontre a Wally en la posicion [indice del arreglo donde esta]'
